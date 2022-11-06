@@ -1,10 +1,8 @@
 import javax.swing.*;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+import java.util.*;
 
 public class Main{
-    //This is my update 3
+    //Import Update
     static List <String> list = new ArrayList<>();
     static JTextField user = new JTextField();
     static JTextField pin = new JPasswordField();
