@@ -14,7 +14,7 @@ public class Main{
 
     static String [] option = {"Savings", "Current"};
     static String [] transaction = {"Deposit", "Withdraw", "Fund Transfer", "Check Balance", "History", "Exit"};
-    static Object [] transac = {"Savings to Current", "Current to Savings"};
+    static String [] transac = {"Savings to Current", "Current to Savings"};
 
     static void inputAcc(){
         try{
